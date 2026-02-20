@@ -17,26 +17,13 @@ Aside code I also do music, modelling and the like...
 
 ---
 
-### Member of:
+### Member of
+<img src="https://raw.githubusercontent.com/Zedorfska/Zedorfska/refs/heads/main/The_Local_Group_Logo.png" alt="drawing" width="50"/><br>
 **[The Local Group](https://github.com/Istaknuca-u-Povijesti-Betona)**<br>
 Organisation of an online group of people whose core members originally met through SCP:SL.<br>
 Nowadays busy talking about starting new projects.<br>
 <br>
+<img src="https://raw.githubusercontent.com/Zedorfska/Zedorfska/refs/heads/main/Beton.png" alt="drawing" width="50"/><br>
 **[Istaknuća u Povijesti Betona](https://github.com/Istaknuca-u-Povijesti-Betona)**<br>
 Organisation of my IRL group of friends I've met during my high school years.<br>
 Nobody here likes each other.<br>
-
-<!--
-**Zedorfska/Zedorfska** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
