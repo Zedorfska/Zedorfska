@@ -1,5 +1,12 @@
 ## Здраво
+I mostly just make infinite side projects
 
+So far I've mostly written stuff in:
+ - Python
+ - GDScript
+ - C#
+
+Make videogames..
 <!--
 **Zedorfska/Zedorfska** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
