@@ -27,3 +27,9 @@ Nowadays busy talking about starting new projects.<br>
 **[Istaknuća u Povijesti Betona](https://github.com/Istaknuca-u-Povijesti-Betona)** <sub>| *Highlights in the History of Concrete*</sub><br>
 Organisation of my IRL group of friends I've met during my high school years.<br>
 Nobody here likes each other.<br>
+
+---
+
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anuraghazra&layout=compact&langs_count=8&card_width=320" />
+</a>
