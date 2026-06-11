@@ -4,14 +4,25 @@ I mostly just make infinite side projects while waiting for a perfect moment tha
 My handle everywhere is **@Zedorfska**, feel free to contact me over ~~Discord~~ (soon to be Matrix).
 
 
-So far I've mostly written stuff in:
- - Python
-   - [Discord Bot](https://github.com/Zedorfska/Trowel)
+## Games
  - GDScript
-   - [Final for my high school](https://github.com/Zedorfska/CardGame)
-   - [WarioWare game shuffler](https://github.com/Istaknuca-u-Povijesti-Betona/BetonWare)
+   - [Untitled SCP Card Game](https://github.com/Zedorfska/CardGame) - My high school final
+   - [BetonWare](https://github.com/Istaknuca-u-Povijesti-Betona/BetonWare) - System that shuffles minigames, made to help my friends get into programming
+   - [Gruel](https://github.com/slop-inc/algebra-game-jam) (by Slop!) - Fast paced first person beat them up for Algebra Game Jam 2026
  - C#
-   - [RTS game in Godot](https://github.com/Istaknuca-u-Povijesti-Betona/RTS)
+   - [Men of Snow](https://github.com/Istaknuca-u-Povijesti-Betona/RTS) - RTS game in Godot
+   - [SUBNET](https://github.com/LightSwitchGames/ggj-2026-mask) - Resource managment hacker game for Global Game Jam 2026
+
+## Other stuff
+ - Python
+   - ~~[Trowel](https://github.com/Zedorfska/Trowel) - My multipurpose Discord bot~~, soon to be rewritten in Rust ...
+ - Rust
+   - Actively learning, first major project will be porting Trowel.
+ - Lua
+   - [Figura models](https://github.com/Zedorfska/FiguraModels) - Various minor scripts for my Figura models
+ - Nix
+   - My dendritic NixOS flake, which I will make public when I finish it.
+
 
 Aside code I also do music, modelling and the like...
 
