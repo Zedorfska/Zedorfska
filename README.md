@@ -15,7 +15,7 @@ My handle everywhere is **@Zedorfska**, feel free to contact me over ~~Discord~~
 
 ## Other stuff
  - Python
-   - ~~[Trowel](https://github.com/Zedorfska/Trowel) - My multipurpose Discord bot~~, soon to be rewritten in Rust ...
+   - ~~[Trowel](https://github.com/Zedorfska/Trowel-Python) - My multipurpose Discord bot~~, soon to be rewritten in Rust ...
  - Rust
    - Actively learning, first major project will be porting Trowel.
  - Lua
