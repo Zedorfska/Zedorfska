@@ -41,4 +41,4 @@ Nobody here likes each other.<br>
 
 ---
 
-[![Zedorfskas's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=Zedorfska)](https://github.com/pranesh-2005/github-readme-stats-fast)
+[![guh](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Zedorfska)](https://github.com/Zedorfska)
