@@ -41,5 +41,4 @@ Nobody here likes each other.<br>
 
 ---
 
-[![guh](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Zedorfska&theme=dark&langs_count=20&layout=compact#gh-dark-mode-only)](https://github.com/Zedorfska)
-[![guh](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Zedorfska&langs_count=20&layout=compact#gh-light-mode-only)](https://github.com/Zedorfska)
+[![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Zedorfska&theme=dark&langs_count=20&layout=compact)](https://github.com/Zedorfska)
