@@ -1,8 +1,12 @@
 # Човијека ни вука није
 I mostly just make infinite side projects while waiting for a perfect moment that may or may not come.
 
-My handle everywhere is **@Zedorfska**, feel free to contact me over ~~Discord~~ (soon to be Matrix).
-
+[Discord](https://discord.com/users/219526746540736512)
+[Steam](https://steamcommunity.com/id/Zedorfska/)
+[Bandcamp](https://bandcamp.com/zedorfska)
+[Codeberg](https://codeberg.org/Zedorfska)
+[YouTube](https://www.youtube.com/@Zedorfska)
+[Bluesky](https://bsky.app/profile/zedorfska.povijestbetona.net)
 
 ## Games
  - GDScript
